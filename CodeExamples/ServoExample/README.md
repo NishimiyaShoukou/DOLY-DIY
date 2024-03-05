@@ -1,6 +1,6 @@
 
 
-# LcdControl Example program
+# ServoControl Example program
 
 ### Compile example program
 This example needs some static libraries and header files located under '/Doly/libs' & '/Doly/include'
